@@ -1,8 +1,8 @@
 # Carbon Test
 A Simple Android App displaying a list of users and their detail when clicking on it.
 
-[![Kotlin Version](https://img.shields.io/badge/Kotlin-1.4.30-blue.svg)](https://kotlinlang.org)
-[![AGP](https://img.shields.io/badge/AGP-4.1.2-blue?style=flat)](https://developer.android.com/studio/releases/gradle-plugin)
+[![Kotlin Version](https://img.shields.io/badge/Kotlin-1.4.31-blue.svg)](https://kotlinlang.org)
+[![AGP](https://img.shields.io/badge/AGP-4.1.3-blue?style=flat)](https://developer.android.com/studio/releases/gradle-plugin)
 [![Gradle](https://img.shields.io/badge/Gradle-6.5.1-blue?style=flat)](https://gradle.org)
 
 [Android](https://en.wikipedia.org/wiki/Android_(operating_system)) application development with up to date tech-stack.
