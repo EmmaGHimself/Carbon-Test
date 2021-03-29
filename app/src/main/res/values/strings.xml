@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EmmaGCarbonTest</string>
+    <string name="a_random_user_name_for_display">A random user name for display</string>
+    <string name="a_random_user">A random user</string>
+    <string name="my_user_list">Carbon User List by Gbayesola</string>
+    <string name="random_text_here">Random text here</string>
+    <string name="name">Name:</string>
+
+    <string name="birthday">Birthday:</string>
+    <string name="registration_date">Registration date:</string>
+
+    <string name="could_not_get_user_details_please_try_again">Could not get user details. Please, try again</string>
+    <string name="user_full_name">%1$s %2$s %3$s</string>
+    <string name="oops_no_internet_connection_you_are_offline">Oops! No internet connection. You are offline.</string>
+
+    <string name="fullName">Full Name</string>
+    <string name="phone">phone</string>
+    <string name="phoneText">Phone</string>
+    <string name="emailImage">emailImage</string>
+    <string name="email">Email</string>
+    <string name="genderImage">genderImage</string>
+    <string name="gender">Gender</string>
+    <string name="dob">dob</string>
+    <string name="dateOfBirth">Date of Birth</string>
+    <string name="registrationDate">registrationDate</string>
+    <string name="RegistrationDate">Registration Date</string>
+    <string name="location">location</string>
+    <string name="UserLocation">Location</string>
+</resources>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bottom_sheet_shape">
+
+    <include
+        android:id="@+id/view_no_data"
+        layout="@layout/user_detail_no_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <include
+        android:id="@+id/view_has_data"
+        android:visibility="gone"
+        layout="@layout/user_detail_has_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:visibility="gone"
+        android:id="@+id/tvError"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/text_size_default"
+        android:fontFamily="@font/lato_bold"
+        android:textColor="@color/black"
+        android:gravity="center"
+        android:padding="16dp"
+        android:text="@string/could_not_get_user_details_please_try_again" />
+
+    <TextView
+        android:id="@+id/tvNoInternetConnection"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:fontFamily="@font/lato_bold"
+        android:visibility="gone"
+        android:gravity="center"
+        android:text="@string/oops_no_internet_connection_you_are_offline"
+        android:textColor="@color/yellow"
+        android:background="@color/black"
+        android:textStyle="bold"
+        android:textSize="@dimen/text_size_default" />
+</LinearLayout>

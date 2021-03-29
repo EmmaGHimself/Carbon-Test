@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/arizonia</item>
+        <item>@font/cairo</item>
+        <item>@font/cairo_extralight</item>
+        <item>@font/grand_hotel</item>
+        <item>@font/lato</item>
+        <item>@font/lato_bold</item>
+        <item>@font/nova_oval</item>
+    </array>
+</resources>
