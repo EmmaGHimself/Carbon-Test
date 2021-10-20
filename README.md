@@ -1,5 +1,5 @@
 # Carbon Test
-A Simple Android App displaying a list of users and their detail when clicking on it.
+A Simple Android App displaying a list of users and their detail when clicked on it.
 
 [![Kotlin Version](https://img.shields.io/badge/Kotlin-1.4.31-blue.svg)](https://kotlinlang.org)
 [![AGP](https://img.shields.io/badge/AGP-4.1.3-blue?style=flat)](https://developer.android.com/studio/releases/gradle-plugin)
@@ -53,13 +53,13 @@ There are a few ways to open this project.
 ### Android Studio
 
 1. `Android Studio` -> `File` -> `New` -> `From Version control` -> `Git`
-2. Enter `https://github.com/emmag13/CarbonTest.git` into URL field
+2. Enter `https://github.com/emmag13/Carbon_Test.git` into URL field
 3. Provide `productionApiBaseUrl="<value goes here>"` in the `gradle.properties` for Release
 4. Provide `dev.api.base.url="<value goes here>"` in the `local.properties` for Debug
 
 ### Command-line + Android Studio
 
-1. Run `git clone https://github.com/emmag13/CarbonTest.git` to clone project
+1. Run `git clone https://github.com/emmag13/Carbon_Test.git` to clone project
 2. Go to `Android Studio` -> `File` -> `Open` and select cloned directory
 3. Provide `productionApiBaseUrl="<value goes here>"` in the `gradle.properties` for Release
 4. Provide `dev.api.base.url="<value goes here>"` in the `local.properties` for Debug
